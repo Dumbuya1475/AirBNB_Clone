@@ -1,0 +1,11 @@
+header {
+    color: white;
+    height: 70px;
+    width: 100%;
+    border-bottom: 1px solid #CCCCCC;
+    background-image: url(/web_static/images/logo.jpg);
+    background-repeat: no-repeat;
+    background-size: 100px;
+    background-position-y: center;
+    background-position-x: 20px;
+}
